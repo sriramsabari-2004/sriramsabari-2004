@@ -71,5 +71,5 @@ Hi there! I'm **SRIRAM S.**, a passionate **B.Tech Information Technology studen
 ---
 
 <p align="center">
-✨ _Code every day, even if it’s just a few lines – consistency beats perfection."_ ✨
+✨ _"Code every day, even if it’s just a few lines – consistency beats perfection."_ ✨
 </p>
