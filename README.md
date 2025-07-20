@@ -2,7 +2,7 @@
 <h3 align="center">Problem solver | Relentless in growth </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriram&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sriramsabari-2004&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/stars/sriramsabari-2004?style=for-the-badge&label=GitHub%20Stars&color=gold" alt="GitHub Stars"/>
 </p>
 
@@ -37,7 +37,7 @@ Hi there! I'm **SRIRAM S.**, a passionate **B.Tech Information Technology studen
 - ⏱ **Time Management**
 - 🔍 **Attention to Detail**
 
-      </td>
+     
 
     </tr>
   </table>
