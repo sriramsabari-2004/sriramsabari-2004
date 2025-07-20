@@ -61,9 +61,9 @@ Hi there! I'm **SRIRAM S.**, a passionate **B.Tech Information Technology studen
 ---
 
 ## 🌟 Connect with Me 
-<p align="center">
-**Email: sriramsabarinathan0719@gmail.com**
-</p>
+<h2 align="center">
+Email: sriramsabarinathan0719@gmail.com
+</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/_sriram_2004/"><img src="https://img.shields.io/badge/LeetCode-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
