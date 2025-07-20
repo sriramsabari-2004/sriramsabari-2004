@@ -62,7 +62,7 @@ Hi there! I'm **SRIRAM S.**, a passionate **B.Tech Information Technology studen
 
 ## 🌟 Connect with Me 
 <p align="center">
-##Email: sriramsabarinathan0719@gmail.com
+**Email: sriramsabarinathan0719@gmail.com**
 </p>
 
 <p align="center">
