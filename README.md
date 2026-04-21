@@ -21,7 +21,7 @@ Hi there! I'm **SRIRAM S.**, a passionate **B.Tech Information Technology studen
 ### 🔧 Technical Skills
 
 - **☕ Programming: Java**
-- **⚛️ Web Development: ReactJS, HTML, CSS, JavaScript**
+- **⚛️ Web Development:HTML, CSS, JavaScript**
 - **📚 Databases: SQL, Database Management**
 
     </td>
@@ -48,14 +48,14 @@ Hi there! I'm **SRIRAM S.**, a passionate **B.Tech Information Technology studen
 
 - 🥇 **Certified in Microsoft Azure.**
 - 🤖 **Certified in Programming using Java by Infosys.**,
-- 📜 **Certified in Zoho Young Creator by Zoho.**
+- 📜 **Certified in AI by Prepinsta.**
 
 ---
 
 <h2 align="center">🏅 Achievements 🏅</h2>
 
 - 🥇 **Achieved 1st place in the district fencing tournament and represented at the state-level
-  competition.**
+  competition back to backl 2 years.**
 - 📜 **Participated in NCC activities, enhancing my discipline and teamwork abilities and community service. Served as NCC team leader for 9 cadets, conducting drill sessions and coordination.**
 
 ---
