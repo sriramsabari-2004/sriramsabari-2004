@@ -22,7 +22,7 @@ Hi there! I'm **SRIRAM S.**, a passionate **B.Tech Information Technology studen
 
 - **☕ Programming: Java**
 - **⚛️ Web Development:HTML, CSS, JavaScript**
-- **📚 Databases: SQL, Database Management**
+- **📚 Databases: SQL**
 
     </td>
     <td valign="top" width="50%">
@@ -47,8 +47,9 @@ Hi there! I'm **SRIRAM S.**, a passionate **B.Tech Information Technology studen
 <h2 align="center">🏅✨ Certification ✨🏅</h2>
 
 - 🥇 **Certified in Microsoft Azure.**
-- 🤖 **Certified in Programming using Java by Infosys.**,
+- 🤖 **Certified in Programming using Java and DBMS by Infosys.**,
 - 📜 **Certified in AI by Prepinsta.**
+- 📜 **Certified in QA Analyst by Prepinsta.**
 
 ---
 
